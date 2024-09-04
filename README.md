@@ -1,4 +1,5 @@
-	This project's goal is to set up a small social media. I focussed on 3 main things:
+
+ This project's goal is to set up a small social media. I focussed on 3 main things:
  1)	Establishing connections between users
 	This section of our project will manage friendships between users, give new friendship suggestions
 and so on.
@@ -10,7 +11,6 @@ reposted a specific post and so on.
 	More details will be given on each task's explanation.
 
 
--------
 	TASK1
--------
+
 	
