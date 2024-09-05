@@ -24,11 +24,11 @@ and "feed.h" will handel the functions required for TASK3.
 TASK1
 
 a) add_friend < user1, user2 >
-	In this function we will connect this 2 users. For this we will be using a bidirectional graph, where the
+In this function we will connect this 2 users. For this we will be using a bidirectional graph, where the
 nodes will be represented by users. When connect we will display the following message:
 ![image](https://github.com/user-attachments/assets/03dc39c0-9cd9-4561-acdb-63b5a45073e2)
 
-I would suggest, just for better transparenct of the data, to use as input user with different names.
+I would suggest, just for better transparency of the data, to use as input user with different names.
 
 b) remove <user1, user2>
 	This function removes the connection between 2 users.
