@@ -63,6 +63,7 @@ I would suggest, just for better transparency of the data, to use as input user 
  ## friends < username >
  
    This function will diplay the number of friends that a user has.
+
   ![image](https://github.com/user-attachments/assets/2350d815-000a-4d8c-b4ea-02b7683b6247)
 
   ## popular < username >
