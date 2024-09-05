@@ -47,7 +47,7 @@ I would suggest, just for better transparency of the data, to use as input user 
  ![image](https://github.com/user-attachments/assets/c0ba6475-05e0-45ec-9bff-2cba08229d7e)
 
 
-## suggestions <user>:]
+## suggestions < user >
 
    This function will find the users with whom you are not connected, and display them as connection suggestions.
 ![image](https://github.com/user-attachments/assets/56adcb8a-02f2-4263-a8c5-6ec30e6c5c34)
@@ -56,15 +56,16 @@ I would suggest, just for better transparency of the data, to use as input user 
 ## common <user1, user2>
 
    This function will display the common friends of the users given as parameters.
+
  ![image](https://github.com/user-attachments/assets/5de535a6-5519-44c9-af31-94b267d6722b)
 
 
- ## friends <username>
+ ## friends < username >
  
    This function will diplay the number of friends that a user has.
   ![image](https://github.com/user-attachments/assets/2350d815-000a-4d8c-b4ea-02b7683b6247)
 
-  ## popular <username>
+  ## popular < username >
   
    This function will display a friend of the user given as parameter that has the most connections.
    If the original user has the most connections, he will be diplayed.
