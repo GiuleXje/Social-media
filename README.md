@@ -43,7 +43,7 @@ c) distance <user1, user2>
  
  ![image](https://github.com/user-attachments/assets/c0ba6475-05e0-45ec-9bff-2cba08229d7e)
 
-d) suggestions <username>
+d) suggestions <user>
 
    This function will find the users with whom you are not connected, and display them as connection suggestions.
 ![image](https://github.com/user-attachments/assets/56adcb8a-02f2-4263-a8c5-6ec30e6c5c34)
