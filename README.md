@@ -20,7 +20,7 @@ reposted a specific post and so on.
 The file "social_media.c" is the main file of this project and it contains mostly the main menu, where we chose
 which task we would like to perform. The files "friends.c" and "friends.h" will handle the functions required
 for TASK1. Files "posts.c" and "posts.h" will handle the functions required for TASK2. Lastly, files "feed.c"
-and "feed.h" will handel the functions required for TASK3.
+and "feed.h" will handle the functions required for TASK3.
 
 
 # TASK1
