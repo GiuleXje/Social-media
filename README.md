@@ -1,3 +1,5 @@
+# Social Media
+
 
  # This project's goal is to set up a small social media. I focussed on 3 main things:
  ## 1)	Establishing connections between users
