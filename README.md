@@ -50,6 +50,7 @@ I would suggest, just for better transparency of the data, to use as input user 
 ## suggestions < user >
 
    This function will find the users with whom you are not connected, and display them as connection suggestions.
+
 ![image](https://github.com/user-attachments/assets/56adcb8a-02f2-4263-a8c5-6ec30e6c5c34)
 
 
